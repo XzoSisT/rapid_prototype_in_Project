@@ -1,2 +1,8 @@
 streamlit
 opencv-python
+pillow
+numpy
+requests
+matplotlib
+streamlit-webrtc
+av
