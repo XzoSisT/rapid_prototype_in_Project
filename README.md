@@ -31,3 +31,9 @@ source .venv/bin/activate
 pip install -r requirements.txt
 streamlit run app.py
 ```
+
+## Demo
+<img width="1919" height="885" alt="image" src="https://github.com/user-attachments/assets/a4071fc7-2789-4ce3-8d53-68bdcda71c2c" />
+<img width="1120" height="848" alt="image" src="https://github.com/user-attachments/assets/a4dbf324-ed0b-4a99-a62b-54f12b7544db" />
+
+
