@@ -1,6 +1,6 @@
 # the rapid prototype in AI Project (Streamlit)
 
-## ✨ คุณสมบัติ (Features)
+## ✨ Features
 
 - 📷 Webcam: ถ่ายภาพนิ่งผ่านเบราว์เซอร์ (st.camera_input)
 - 🌐 Image URL: โหลดภาพจากลิงก์สาธารณะ
@@ -21,7 +21,7 @@
 git clone https://github.com/XzoSisT/rapid_prototype_in_Project.git
 cd rapid_prototype_in_Project
 
-# (แนะนำ) สร้างและเปิดใช้งาน virtual environment
+# (Recommend) สร้างและเปิดใช้งาน virtual environment
 python -m venv .venv
 # Windows
 .venv\Scripts\activate
